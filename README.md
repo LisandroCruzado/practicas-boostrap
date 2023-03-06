@@ -1,12 +1,3 @@
-back to edit
-
-copy-markdown
-
-download markdown
-
-download backup
-
-preview
 <h1 align="center">Hi 👋, I'm Lisandro</h1>
 <h3 align="center">A passionate Full Stack developer from Argentina</h3>
 
